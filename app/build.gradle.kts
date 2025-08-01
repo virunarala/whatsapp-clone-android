@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "dev.virunarala.composetemplate"
+    namespace = "dev.virunarala.whatsapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "dev.virunarala.composetemplate"
+        applicationId = "dev.virunarala.whatsapp"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

@@ -1,4 +1,4 @@
-package dev.virunarala.composetemplate.ui.theme
+package dev.virunarala.whatsapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package dev.virunarala.composetemplate
+package dev.virunarala.whatsapp
 
 import org.junit.Test
 
